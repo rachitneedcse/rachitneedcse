@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rachitneedcse
-- 👀 I’m interested in competitive programming and web devlopment.
-- 🌱 I’m currently learning C/C++
+- 👀 I’m interested in competitive programming, ml and  app devlopment.
+- 🌱 I’m currently learning kotlin.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
