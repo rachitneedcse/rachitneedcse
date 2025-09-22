@@ -36,13 +36,6 @@ I’m open to collaborate on:
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </p>
 
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rachitneedcse&show_icons=true&theme=tokyonight" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachitneedcse&layout=compact&theme=tokyonight" height="160px"/>
-</p>
 
 ---
 
