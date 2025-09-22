@@ -14,9 +14,9 @@
 ## 👀 Interests
 - 🤖 Machine Learning & Deep Learning  
 - 🗣️ Natural Language Processing (NLP)  
-- ⚡ Backend Development with **FastAPI + PostgreSQL**  
+- ⚡ Backend Development  
 - ☁️ Cloud, Docker, and Deployments  
-- 🧑‍💻 Full-stack project building for real-world applications  
+- 🧑‍💻 Building projects for real-world applications  
 
 ---
 
