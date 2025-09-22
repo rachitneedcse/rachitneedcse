@@ -61,11 +61,4 @@ I’m open to collaborate on:
 - 💼 [LinkedIn](https://www.linkedin.com/in/rachitneedcse/)  
 - 📧 Email: **rachitguptacse.098@gmail.com**
 
----
 
-✨ _“Code. Learn. Share. Repeat.”_ ✨
-
-<!---
-rachitneedcse/rachitneedcse is a ✨ special ✨ repository because its `README.md`
-appears on your GitHub profile.
---->
