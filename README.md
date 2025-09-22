@@ -1,8 +1,12 @@
 # 👋 Hi, I’m Rachit Gupta (@rachitneedcse)
 
-🚀 Aspiring **AI/ML Engineer** passionate about building **scalable and impactful systems**.  
-Skilled in **NLP, Data Science, and Backend Development**, with experience in designing **end-to-end ML pipelines** — from data preprocessing and modeling to evaluation and deployment.  
-Focused on **learning, innovation, and delivering actionable insights** through AI solutions.
+## 🌟 About Me  
+
+🚀 Aspiring **AI/ML Engineer** passionate about building **scalable and impactful systems**  
+🧠 Skilled in **NLP**, **Data Science**, and **Backend Development**  
+⚙️ Experienced in designing **end-to-end ML pipelines** — from **data preprocessing** and **modeling** to **evaluation** and **deployment**  
+📈 Focused on **learning, innovation, and delivering actionable insights** through AI solutions  
+
 
 
 ---
